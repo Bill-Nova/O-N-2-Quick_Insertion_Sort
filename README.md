@@ -8,7 +8,7 @@ if(Input>Add[X]){Sort Add[]<----Insertion Sort();}
 -
 eles{Insertion Sort()---->Sort Add[];}
 -
-X=Insertion Sort/2
+X=(Insertion Sort Low+Hgih)/2
 -
 //Add{X,(X),X}->{(X),X,X,X}->{X,(X),X,X}
 
