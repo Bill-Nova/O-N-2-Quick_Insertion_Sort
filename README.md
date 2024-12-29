@@ -8,4 +8,5 @@ if(Input>Add[x]){Sort Add[]<----Insertion Sort();}
 -
 eles{Insertion Sort()---->Sort Add[];}
 -
-  
+Loop
+-
