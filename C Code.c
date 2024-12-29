@@ -20,8 +20,8 @@ int main(){
 	}
 	
 	int* Input_Add=(int*)malloc(Input_Max*sizeof(int));	//!!!	Hypothesis Non-existent! one tiem one input 	!!!
-	if(Input_Add==NULL){ 								//!!!	In order to printf("Input(rand()%10)=\n");  	!!!
-		printf("ERR!!!");								//!!!				Non-existent Add					!!!
+	if(Input_Add==NULL){ 					//!!!	In order to printf("Input(rand()%10)=\n");  	!!!
+		printf("ERR!!!");				//!!!			Non-existent Add		!!!
 		goto End;
 	}
 	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));
