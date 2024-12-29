@@ -1,3 +1,4 @@
+//Sourec of inspiration
 //Game not ">>" "<<"
 
 01 bump+ 24
@@ -88,8 +89,8 @@
 73 copyto [19]
 74 bump+ 19
 75 bump+ 21
-76 sub 23
-77 jump 58 if zero
+76 sub 23 //<---Delete
+77 jump 58 if zero //<---Delete
 78 jump 69
 79 bump+ 24
 80 copyto 19
@@ -103,8 +104,8 @@
 87 copyto [19]
 88 bump- 19
 89 bump- 21
-90 sub 23
-91 jump 58 if zero
+90 sub 23 //<---Delete
+91 jump 58 if zero //<---Delete
 92 jump 83
 //<-61,98
 93 copyfrom [24]
