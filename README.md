@@ -10,5 +10,7 @@ eles{Insertion Sort()---->Sort Add[];}
 -
 X=Insertion Sort/2
 -
+//Add{X,(X),X}->{(X),X,X,X}->{X,(X),X,X}
+
 Loop
 -
