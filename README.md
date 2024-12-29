@@ -18,7 +18,7 @@ if(Input>Add[X]){Sort Add[]<----Insertion Sort();
 
 X=(Insertion Sort Low+Hgih)/2
 
-//Add{X,(X),X}->{(X),X,X,X}->{X,(X),X,X}
+//Add{X,(X),X}->{(X),X,X,X}->{X,(X),X}
 
 (4)
 
