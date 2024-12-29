@@ -1,6 +1,6 @@
 Input Max=X;
 -
-Sort Add[2X];
+Sort Add[2*X];
 -
 Input->Sort Add[X];
 -
