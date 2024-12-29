@@ -14,9 +14,13 @@ if(Input>Add[X]){Sort Add[]<----Insertion Sort();
 
 //{....X,4,5,6,(7)}--->{....X,4,5,(6),7}--->{....X,4,(5),6,7}
 
+(3)
+
 X=(Insertion Sort Low+Hgih)/2
 
 //Add{X,(X),X}->{(X),X,X,X}->{X,(X),X,X}
+
+(4)
 
 Loop
 
