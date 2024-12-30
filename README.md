@@ -1,26 +1,13 @@
-(1)
+XXXXXX <-----Input
 
-Input Max=X;
+XXXXXXXXXXXX <--------Sort Add=Input*2
 
-Sort Add[2*X];
+XXXXX(X)XXXXXX <------Sort Add[Input MAX]
 
-(2)
+if Input>(X) Sort Add[]<----Insertion Sort()
 
-Input--Sort-->Sort Add[X-1 , X , X+1];
+if Input>(X) Insertion Sort()---->Sort Add[]
 
-if(Input>Add[X]){Sort Add[]<----Insertion Sort();
-
-}eles{Insertion Sort()---->Sort Add[];}
-
-//{....X,4,5,6,(7)}--->{....X,4,5,(6),7}--->{....X,4,(5),6,7}
-
-(3)
-
-X=(Insertion Sort Low+Hgih)/2
-
-//Add{X,(X),X}->{(X),X,X,X}->{X,(X),X}
-
-(4)
+New (X)=(Insertion Sort Low+Hgih)/2
 
 Loop
-
