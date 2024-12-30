@@ -24,7 +24,7 @@ int main(){
 		printf("ERR!!!");				//!!!			Non-existent Add		!!!
 		goto End;
 	}
-	int* Sort_Add=(int*)malloc((Input_Max*2+1)*sizeof(int));
+	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));
 	if(Sort_Add==NULL){ 
 		printf("ERR!!!");
 		goto End;
@@ -43,11 +43,11 @@ Loop_Input_Rand:
 //----------------------------------
 //Normal Sort
 	i=0;//Now i=Input_Add[Low---->High]
-	Sort_Add[Sort_Add_High]=Input_Add[i];
 	if(i==Input_Max){
-		printf("%d",Sort_Add[Sort_Add_High]);
+		printf("%d",Input_Add[i]);
 		goto End;
 	}	
+	Sort_Add[Sort_Add_High]=Input_Add[i];
 	
 	i++;
 	
