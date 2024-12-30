@@ -97,8 +97,8 @@ Insertion_Sort_Loop:
 		}
 		goto Loop_Printf;
 	}
-	Compare=Input_Add[i];
 	i++;
+	Compare=Input_Add[i];
 	Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
 	if(Compare>Sort_Add[Sort_Add_Mid]){
 		Counter=Sort_Add_High;
