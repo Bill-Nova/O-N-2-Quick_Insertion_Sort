@@ -3,10 +3,9 @@
 #include <time.h>
 
 int main(){
-	int Change;
+	int Compare;
 	int i=0;
 	int Input_Max=1;
-	int Compare;
 	printf("Input Max=?\n");
 	scanf("%d",&Input_Max);
 	int Sort_Add_Mid=Input_Max;
@@ -65,16 +64,16 @@ Loop_Input_Rand:
 		
 	i++;
 	
-	Change=Input_Add[i];
-	if(Change>Sort_Add[Sort_Add_High]){
+	Compare=Input_Add[i];
+	if(Compare>Sort_Add[Sort_Add_High]){
 		Sort_Add[Sort_Add_Mid]=Sort_Add[Sort_Add_High];
-		Sort_Add[Sort_Add_High]=Change;
+		Sort_Add[Sort_Add_High]=Compare;
 	}else{
-		if(Change>Sort_Add[Sort_Add_Low]){
-			Sort_Add[Sort_Add_Mid]=Change;
+		if(Compare>Sort_Add[Sort_Add_Low]){
+			Sort_Add[Sort_Add_Mid]=Compare;
 		}else{
 			Sort_Add[Sort_Add_Mid]=Sort_Add[Sort_Add_Low];
-			Sort_Add[Sort_Add_Low]=Change;
+			Sort_Add[Sort_Add_Low]=Compare;
 		}
 	}
 	if(i==Input_Max){
