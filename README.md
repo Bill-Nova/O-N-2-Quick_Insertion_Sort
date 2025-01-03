@@ -1,4 +1,4 @@
-//If you can't understand my code watch MP4 (The game does not have ">>" "<<" so there is no "New (X)=(Insertion Sort Low+Hgih)/2"!!!)(not loop unroling)
+//If you can't understand my code watch MP4 (!!!The game does not have ">>" "<<" so there is no "New (X)=(Insertion Sort Low+Hgih)/2"!!!)(not loop unroling)
 -------------------
 //and This indicates that you don't actually understand what the computer is doing.
 -------------------
