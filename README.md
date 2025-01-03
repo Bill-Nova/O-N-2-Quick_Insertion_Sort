@@ -8,7 +8,7 @@
 
 //You should be able to get the obvious answer by watching the video (maybe the base of Log is not 2...I won't count this...)
 
-//I am sharing this just for discussion and to know if anyone has figured out this algorithm in the past... This is just an assembly game exercise for me every 1 or 2 years, but to get such an unpleasant response ?
+//I am sharing this just for discussion and to know if anyone has figured out this algorithm in the past... This is just an assembly game exercise for me every 1 or 2 years, but to get such an unpleasant response ?(But considering the low level of this /r, it is reasonable.At least that's the impression I got.)
 
 //Sort------------------------------------------------------------------------------------------------
 ------
