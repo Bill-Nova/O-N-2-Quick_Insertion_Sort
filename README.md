@@ -1,7 +1,5 @@
 //If you can't understand my code watch MP4 (not loop unroling)(Maybe because there is too little data, updating the intermediate value in game will be slower)
 -------------------
-//If you can’t understand this video after watching it, it means you don’t actually understand computers at all.
------
 
 XXXXXX <-----Input
 
