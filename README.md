@@ -4,6 +4,8 @@
 
 When I asked if anyone had come up with this algorithm before, no one answered.+The worst replies have the most UP, so you can imagine how poor the quality is.
 
+//Sort--------------------------------
+
 XXXXXX <-----Input
 
 XXXXXXXXXXXX <--------Sort Add=Input*2
