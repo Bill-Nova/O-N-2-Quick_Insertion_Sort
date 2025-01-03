@@ -6,6 +6,13 @@
 
 //And thanks for the high quality reply, I tried to reduce the program branches but failed...but it's really interesting
 
+//You should be able to get the obvious answer by watching the video (maybe the base of Log is not 2...I won't count this...)
+
+//I am sharing this just for discussion and to know if anyone has figured out this algorithm in the past... This is just an assembly game exercise for me every 1 or 2 years, but to get such an unpleasant response ?
+
+//And why do you use linked lists if you hate GOTO?
+------------
+
 //Sort------------------------------------------------------------------------------------------------
 -------
 
