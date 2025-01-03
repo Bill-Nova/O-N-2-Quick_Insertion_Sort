@@ -1,6 +1,6 @@
 //If you can't understand my code watch MP4 (not loop unroling)(Maybe because there is too little data, updating the intermediate value in game will be slower)
 -------------------
-//Sorry Because I was banned by Reddit Shadow ban, I wrote this here. If you still don't understand after watching the video, I suggest that some people in r/algorithms should not think that they understand programming. After all, they don't even understand the basic operation of computers.(This game CPU does not even have immediately data!)(According to the most supportive remarks, you don’t understand the person who wrote the code for the first time. It's really incredible)
+//Sorry Because I was banned by Reddit Shadow ban, I wrote this here. If you still don't understand after watching the video, I suggest that some people in r/algorithms should not think that they understand programming. After all, they don't even understand the basic operation of computers.(This game CPU does not even have immediately data Very Simple!)(According to the most supportive remarks, you don’t understand the person who wrote the code for the first time. It's really incredible)
 
 //The above does not include other responses (although there is no actual answer ...What I want to know is, who has thought of this algorithm in the past....)
 
@@ -10,11 +10,8 @@
 
 //I am sharing this just for discussion and to know if anyone has figured out this algorithm in the past... This is just an assembly game exercise for me every 1 or 2 years, but to get such an unpleasant response ?
 
-//And why do you use linked lists if you hate GOTO? Or maybe you just don’t understand computers?
-------------
-
 //Sort------------------------------------------------------------------------------------------------
--------
+------
 
 XXXXXX <-----Input
 
