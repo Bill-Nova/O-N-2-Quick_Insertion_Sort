@@ -1,5 +1,5 @@
 //Sourec of inspiration
-//Game not ">>" "<<"
+
 
 01 bump+ 24
 02 bump+ 24
