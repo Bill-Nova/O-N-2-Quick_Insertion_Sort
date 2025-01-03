@@ -4,6 +4,8 @@
 
 //But thank for other normal reply in the post (although there is no actual answer ...What I want to know is, who has thought of this algorithm in the past....)
 
+//And thanks for the high quality reply, I tried to reduce the program branches but failed...but it's really interesting
+
 //Sort--------------------------------
 
 XXXXXX <-----Input
