@@ -98,8 +98,8 @@ Insertion_Sort_Loop:
 	}
 	i++;
 	Compare=Input_Add[i];
+	Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
 	if(Compare>Sort_Add[Sort_Add_Mid]){
-		Sort_Add_Mid++;
 		Counter=Sort_Add_High;
 		Sort_Add_High++;
 		Counter_2=Sort_Add_High;
@@ -113,7 +113,6 @@ Insertion_Sort_Loop:
 		Counter_2--;
 		goto Greater_Loop;
 	}else{
-		Sort_Add_Mid--;
 		Counter=Sort_Add_Low;
 		Sort_Add_Low--;
 		Counter_2=Sort_Add_Low;
