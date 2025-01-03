@@ -1,3 +1,6 @@
+//If you can't understand my code watch MP4 (The game does not have ">>" "<<" so there is no "New (X)=(Insertion Sort Low+Hgih)/2"!!!)
+
+
 XXXXXX <-----Input
 
 XXXXXXXXXXXX <--------Sort Add=Input*2
