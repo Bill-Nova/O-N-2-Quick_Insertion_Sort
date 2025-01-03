@@ -10,7 +10,7 @@
 
 //I am sharing this just for discussion and to know if anyone has figured out this algorithm in the past... This is just an assembly game exercise for me every 1 or 2 years, but to get such an unpleasant response ?
 
-//And why do you use linked lists if you hate GOTO?
+//And why do you use linked lists if you hate GOTO? Or maybe you just don’t understand computers?
 ------------
 
 //Sort------------------------------------------------------------------------------------------------
