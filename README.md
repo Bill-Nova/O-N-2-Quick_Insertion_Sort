@@ -10,8 +10,10 @@ XXXXXXXXXXXX <--------Sort Add=Input*2
 
 XXXXX(X)XXXXXX <------Sort Add[Input MAX]
 
-if Input>(X) Sort Add[]<----Insertion Sort() ()++
+if Input>(X) Sort Add[]<----Insertion Sort() 
 
-if Input<(X) Insertion Sort()---->Sort Add[] ()--
+if Input<(X) Insertion Sort()---->Sort Add[] 
+
+Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
 
 Loop
