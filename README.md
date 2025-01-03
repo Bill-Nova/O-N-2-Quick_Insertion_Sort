@@ -2,7 +2,7 @@
 -------------------
 //Because I was banned by Reddit Shadow ban, I wrote this here. If you still don't understand after watching the video, I suggest that some people in r/algorithms should not think that they understand programming. After all, they don't even understand the basic operation of computers.(According to the most supportive remarks, you don’t understand the person who wrote the code for the first time. It's really incredible)
 
-//But thank you for other normal reply in the post (although there is no actual answer ...What I want to know is obviously that this algorithm has thought of in the past)
+//But thank for other normal reply in the post (although there is no actual answer ...What I want to know is obviously that this algorithm has thought of in the past)
 
 //Sort--------------------------------
 
