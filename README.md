@@ -2,7 +2,7 @@
 -------------------
 //Because I was banned by Reddit Shadow, I wrote this here. If you still don't understand after watching the video, I suggest that some people in r/algorithms should not think that they understand programming. After all, they don't even understand the basic operation of computers.
 
-The worst replies have the most UP, so you can imagine how poor the quality is.
+When I asked if anyone had come up with this algorithm before, no one answered.+The worst replies have the most UP, so you can imagine how poor the quality is.
 
 XXXXXX <-----Input
 
