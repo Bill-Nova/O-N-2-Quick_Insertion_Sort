@@ -14,6 +14,6 @@ if Input>(X) Sort Add[]<----Insertion Sort()
 
 if Input<(X) Insertion Sort()---->Sort Add[] 
 
-Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
+New (X)=(Insertion Sort Low+Hgih)/2
 
 Loop
