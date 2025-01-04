@@ -86,7 +86,6 @@ Loop_Input_Rand:
 //Insertion Sort
 	goto Skip; //Now that the code has a video
 Insertion_Sort_Loop:
-	Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
 	if(i==Input_Max){
 	Loop_Printf:
 		printf("%d",Sort_Add[Sort_Add_High]);
@@ -97,6 +96,7 @@ Insertion_Sort_Loop:
 		}
 		goto Loop_Printf;
 	}
+	Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
 Skip:
 	i++;
 	Compare=Input_Add[i];
