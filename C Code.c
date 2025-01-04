@@ -22,7 +22,7 @@ int main(){
 		printf("ERR!!!");				//!!!			Non-existent Add		!!!
 		goto End;
 	}
-	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));	//Sorry, after thinking about it, something seems wrong.
+	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));	
 	if(Sort_Add==NULL){ 					
 		printf("ERR!!!");				
 		goto End;
