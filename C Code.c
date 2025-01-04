@@ -89,7 +89,6 @@ Loop_Input_Rand:
 Insertion_Sort_Loop:
 	Sort_Add[Counter_2]=Compare;
 	Sort_Add_Mid=(Sort_Add_High+Sort_Add_Low)>>1;// <---- =/2
-Skip:
 	if(i==Input_Max){
 	Loop_Printf:
 		printf("%d",Sort_Add[Sort_Add_High]);
@@ -100,6 +99,7 @@ Skip:
 		}
 		goto Loop_Printf;
 	}
+Skip:
 	i++;
 	Compare=Input_Add[i];
 	if(Compare>Sort_Add[Sort_Add_Mid]){
