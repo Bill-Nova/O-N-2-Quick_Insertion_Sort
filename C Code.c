@@ -22,9 +22,9 @@ int main(){
 		printf("ERR!!!");				//!!!			Non-existent Add		!!!
 		goto End;
 	}
-	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));	//!!!And If you want this code to run really fast, replace malloc() with a REAL Add[]!!!
-	if(Sort_Add==NULL){ 					//!!!				Sort Add Max=Input Add Max*2			     !!!
-		printf("ERR!!!");				//I didn't want to write this but considering the average level I saw on reddit before.....
+	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));	
+	if(Sort_Add==NULL){ 					
+		printf("ERR!!!");				
 		goto End;
 	}
 	
