@@ -14,18 +14,18 @@ int main(){
 	int Counter;
 	if(Input_Max<0){ 								
 		printf("ERR!!!Input Max<0!");								
-		goto End;
+		goto ERR_End;
 	}
 	
 	int* Input_Add=(int*)malloc(Input_Max*sizeof(int));	//!!!	Hypothesis Non-existent! one time one input 	!!!
 	if(Input_Add==NULL){ 					//!!!	In order to printf("Input(rand()%10)=\n");  	!!!
 		printf("ERR!!!");				//!!!			Non-existent Add		!!!
-		goto End;
+		goto ERR_End;
 	}
 	int* Sort_Add=(int*)malloc((Input_Max*2)*sizeof(int));	
 	if(Sort_Add==NULL){ 					
 		printf("ERR!!!");				
-		goto End;
+		goto ERR_End;
 	}
 	
 	srand((unsigned)time(NULL));
@@ -125,4 +125,7 @@ Skip:
 		goto Less_Loop;
 	}
 End:
+	free(Input_Add);
+	free(Sort_Add);
+ERR_End:
 }
